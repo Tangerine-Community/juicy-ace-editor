@@ -4,6 +4,12 @@
 > Custom Element - just one tag, and no JS needed to provide
 > [Ace](http://ace.c9.io/) - The High Performance Code Editor
 
+## ES6 Modules version
+
+This version was created using the ES6-modules branch of the [original juicy-ace-editor repo](https://github.com/Tangerine-Community/juicy-ace-editor/tree/ES6-modules). A Github Actions workflow was balking at using the original repo, so I merged it into my fork's master. 
+
+## The rest of these instructions are very outdated.
+
 ## Demo
 
 [Check it live!](http://juicy.github.io/juicy-ace-editor)
